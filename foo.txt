@@ -302,3 +302,4 @@ fake commit 300
 fake commit 301
 fake commit 302
 fake commit 303
+fake commit 304
